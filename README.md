@@ -1,4 +1,4 @@
-# about
+# About Me website
 
 This repo holds all the HTML/CSS and asset files for my about me website
 
